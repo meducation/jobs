@@ -1,6 +1,6 @@
-# Meducation Job Specs
+# Meducation Job Specifications
 
-## Current Job Specs
+## Current Vacancies
 
 This is a list of vacancies at Meducation.
 
@@ -8,6 +8,6 @@ This is a list of vacancies at Meducation.
 - [Content Manager](https://github.com/meducation/job-specs/blob/master/content_manager.md)
 - [Marketer](https://github.com/meducation/job-specs/blob/master/marketer.md)
 
-## Old Job Specs
+## Filled Vacancies
 
 These are vacancies that have now been filled.
